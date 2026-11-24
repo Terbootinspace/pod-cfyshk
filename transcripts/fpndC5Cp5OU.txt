@@ -1,0 +1,231 @@
+Every day on this channel I cover everything Elon Musk says on X over the last 24 hours. And here's everything he said, as always I'll cover one category completely before moving on to the next one. And starting with Tesla, full self-driving is GTA in real life.
+
+And that's from Elon Musk as this is nuts. Watch full self-driving with the new visualizations in version 15 go around this branch right here. This is on the car's screen.
+
+And this is as Elon says, Tesla full self-driving version 15 is a banger release. Completely new architecture that deserves being called super intelligence as it drives better than human intelligence. And let's watch this introducing Tesla self-driving is 25 times safer as a neural network, unified with RoboTaxi.
+
+It has improved debris detection, improved pothole avoidance, human gesture recognition flooded road avoidance and look at this insane new visualization. It looks GTA 6 in real life. It renders everything and you can click on your parking spot, tell it where you want it to go.
+
+It remembers exactly where you to park and you can also see where you're going to go on the route with arrows and it just looks so amazing. And let's look at the full release notes. Critical interventions are down by 25 times.
+
+Again there's this new Tesla reality view with an end to end visualization using less total compute than the one before. That's crazy. Improved navigation by using an end to end learn model based on route preference data from the fleet, improved parking location selection by using personalized parking history we saw and the map will now display multiple parking options at your destination, improved driver monitoring by increasing vision based attention monitoring with hats and sunglasses and decreasing strictness in higher speed driver profiles, improved detection of road signs, small animals or road debris and chains, improved detection of potholes road details and avoidance of deep standing water, improved speed handling for each driver, profile school zones and speed limits and inclement weather.
+
+And Dirty Tesla is now getting full self-driving version 15.0.1. He says it's downloading now. Elon says this is so fun that it's worth just having your car drive you around for the sake of driving around.
+
+And look at how freaking far we've come. This is the original version of full self-driving versus what we've seen today where it renders everything a video game. An Ashok Gala Swami says the crazier thing is the right side uses less compute than what the left used to take, extreme compute efficiency optimization.
+
+Elon says this is a real-time AI video generation with no gaming engine. That's insane using just half of one AI for trip accelerator. Let that sink in. Jimmy says half of me is meh why does the driver need to see anything and the other half is oh my gosh this is sweet.
+
+Elon says it is mesmerizing to watch. Where this actually is useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target. And Sawyer shares some more pictures of it.
+
+Look at it getting off the freeway right here. This is it around in town. This is it in the downtown with pedestrians. Here's it on the Golden Gate Bridge.
+
+But he says here are the new full self-driving visualizations. It continuously streams a view from an arbitrary virtual camera situated above your vehicle. Upcoming navigation turns displayed directly in the driving visualization.
+
+Turn signals are quieter and fade out after a few clicks. Elon says it's GTA. Anyone also says Tesla vehicles will share traffic knowledge and combine that with GROC's real-time X feed to give you the optimal transport experience.
+
+Even giving you a heads up about what's happening at your destination. And this is insane in full self-driving version 15. The Tesla AI computer re-renders reality with chevrons in the sky for turns a video game.
+
+You can tap any point on the reality visualizer to make your car go there. Toby says this is so unbelievably impressive. And he's from Shopify.
+
+Elon calls it GTA in real life. And Tesla's super intelligence says XV. Ashok Alaswamy says XV. Anyone says XV is the beginning of the super part of Tesla's super intelligence.
+
+That's version 15 for you guys. Dirty Tesla says you are under-hyped for reality view. It is absolutely amazing. In the last clip I was actually surprised when I looked up in the arrows when actually floating mid-air.
+
+Really nice. Look we have our arrows way up there. Oh my goodness. Look at that.
+
+That just looks so bad. Oh my gosh. So I'm looking at the screen seeing that. And I looked up.
+
+Obviously they're not there in real life but it almost kind of tripped me out to see them on the screen and then them not be. For some reason I expected them to actually be there when I looked up.
+
+Oh my goodness. We're blurring our reality with it. I'm gonna hit the accelerator here. Elon has a laugh.
+
+And here's Tesla full self-driving version 15 letting you select any parking spot of your choice.
+
+And the Chevrons also show you where full self-driving intends to park. And Elon said you can just tap the screen to adjust the precise location.
+
+If you wanted to choose a different spot or area. Elon reposts that. And take a look at these visualizations right here downtown.
+
+A little shaky but you can see how absolutely detailed it is. And it runs at 60 or 70 frames per second without actually using a game engine. Look at that.
+
+Chansu says full self-driving 15 is mind-blowing. Elon reposts that. And all these influencers are getting it. Sawyer Merritt got it today on his Model Y with a front bumper camera.
+
+And Lawson from Tesla Superintelligence says I honestly still can't believe we pulled it off. Huge shout out to Jonathan she, and Teriwa on their work and deploy a blazing fast real-time architecture.
+
+Lawson says the rest of the team also deserves a huge amount of credit. Shanahara, Amy, LaShameet, and Jiho. Elon says nice work.
+
+And Sawyer also says oh my goodness the visualizations on version 15 are mind-blowing. Never seen anything this before. This is such a massive upgrade.
+
+And the visualization is also there when full self-driving is not on. Tesla absolutely cooked with this update. Elon says maybe we should add a game mode where aliens attack you and you defend yourself with a laser turret that pops out of the roof.
+
+And David Moss is the guy with the huge full self-driving streak. He has a 36,674 mile streak. He says I wonder how high.
+
+Tesla full self-driving screen streaks are going to get in version 15. There's a 25 times increase in safety critical situations.
+
+It's no joke. He asks if he's going to get to a 100,000 mile streak. And Mike says progress here on version 15 is very impressive. I still wish the safety data was communicated as true apples to apples comparisons and open so it can be vetted by third parties.
+
+I'm confused why radar isn't used but you can't deny the progress. Elon says adding radar reduces effective signal-to-noise ratio. And this is version 15 on the freeway.
+
+Sawyer really likes the floating arrows. They look super cool. And Phil says this is GTA 6 real world mode is just dropping on a Tesla's.
+
+Look at it downtown right here. It even renders the freaking Christmas lights. You can literally watch the Christmas lights on Christmas through the screen instead of looking out the window.
+
+And Chauvin says if you zoom out a little further you can see our simulation playing on the screen of the creators. And this is GTA right here.
+
+You can see the graphics pretty cool. This is Tesla's full self-driving. Very similar, if not better I would say. And Phil says a version 15 is 25 times safer than a version 14 across the fleet.
+
+It's hard to notice on any individual drive because most drivers are already very safe. The difference only becomes clear when you aggregate millions of miles.
+
+All credit goes to the incredibly talented and dedicated Tesla super intelligent engineers who made this possible. It's an honor to work alongside them.
+
+And here's a side-by-side comparison. This is full self-driving version 8 on the left. Version 15 on the right. Six years apart.
+
+Six years worth of progress. And here is that progress. Version 12 introduced end to end neural network of driving. Version 13 built on that with reduced interventions.
+
+Version 14 brought point to point travel and a huge leap in capability helping full self-driving start to go mainstream. And version 15 will bring pothole avoidance to AI-based mapping and navigation rather than relying on conventional third party maps.
+
+A new user interface that we've seen. Fleet intelligence that incorporated driving information collected across of Tesla vehicles.
+
+Voice integration allowing drivers to request different routes conversationally. Improved parking, destination handling and trip planning a 10 times parameter count increase.
+
+New lane change and exiting behavior. And eventually in 2027 for Model Y full self-driving unsupervised for personal cars. And one the last look at the new visualizations in version 15 for you guys.
+
+Again we've seen these before but Sawyer shares them once more and Elon reposts them. And there's a little nuance to this.
+
+Let's see if we can see it. You see it now has a map button and there's also a sleep button right here. If you tap this it turns into a robot taxi screen where you don't see the visualization anymore.
+
+And moving on to SpaceX. SpaceX has now launched more payload masks to orbit in 20 years than the rest of the US combined since 1957.
+
+Look at that exponential curve right there. Elon says it looks a super intelligence curve. And James calls out Elon saying hey Elon perhaps a more rapidly reusable solution than a blade of material can be built onto the tower where there's no weight penalty.
+
+And he's talking about these hypothetical wheels right here that hold it in place. Elon says wheels are a good option to consider but it looks woven stainless steel matting on the ship probably solves for zero refurbishment.
+
+Unlike the Bootster we need something there to keep the ship's primary structure below its annealing temperature. And looking at Starlink, Starlink saves lives as it's being deployed to help fight the Congo's deadly Ebola outbreak.
+
+The African CDC has donated Starlink kits to health officials in Benny to help frontline teams share critical data in real time and coordinate faster responses even in remote communities.
+
+And Starlink is also helping education as now SpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high speed internet.
+
+You can see everyone getting them right here. They're handing them out for free to everybody in the schools. And a little joke to lighten up the mood. Elon says it's high time we probe Uranus again.
+
+Much better images are needed actually. And it's Grockbott time ladies and gentlemen as Grockbott planned a 5,000 person conference. The guy who planned this conference says his team used Grockbott for literally everything said at the summit.
+
+Literally half of the lead up to this event was ran by Grockbott. He said this is 5,000 people in a basketball arena. No one does that in six or seven months.
+
+That's an 18 month thing. Using AI we were able to build everything we needed so quickly. The website, the dashboards, the mobile app all the elements that go into it.
+
+It typically took months and months to build. We built them in days. And Elon says give Grockbott your hardest tasks. And every single time I open Twitter refresh the feed.
+
+Sam says the first two or three poster are random accounts I've never seen promoting how to use Grockbott to automatically trade crypto, generate Twitter content. Elon is obviously trying to get everyone to use Grockbott.
+
+I'm old enough to remember when he protested the amount of bots on here but now he's openly turning this increasingly dog crap platform into a bot slop fest.
+
+For four days straight there hasn't been a single exception to this. If I refresh the feed it'll be another use Grockbott to become a millionaire overnight and generate content while you sleep.
+
+And then he quotes what Elon just said about giving Grockbott your hardest tasks saying there it is, just refresh the feed and it's Elon pitching Grockbott.
+
+Elon has a laugh and says but actually try Grockbott. It's awesome. And Christopher just had Grockbott go through all of his Amazon orders and look for refunds that were never issued.
+
+It found $590 and missing refunds over several years open to support chat talked to customer service and got them to agree to issue the refunds.
+
+This product literally bays for itself as well as reposting that. Elon says, cool. I'm looking at artificial intelligence.
+
+Will Dupu says listening to men Elon Isla or Sam Altman you can sense a twinge of relief of the utter absurdity and terrible magnificence that have been driving them near crazy their entire lives is slowly becoming universal.
+
+But the sheer derealization which strives one to believe that their life is too odd to not be some strange prank or simulation that comes naturally with being the one monkey in a billion no, 117 billion to ever live.
+
+Strap to the launch chair at the end of the world is infecting the rest of us a strangeness that has been building since maybe the dawn of agriculture or fire.
+
+And finally coming to an unignorable global front. Welcome to the technological singularity. He says So between now and 2012 the next 14 years.
+
+I look for the invention of artificial life the cloning of human beings possible contact with extraterrestrials possible human immortality and at the same time appalling acts of brutality genocide erasepading homophobia famine starvation.
+
+Because the systems which are in place to keep the world sane are utterly inadequate to the forces that have been unleashed.
+
+The collapse of the socialist world the rise of the internet these are changes so immense nobody could imagine them ever happening.
+
+Now that they have happened nobody even bothers to mention what a big deal it is. The fact there is no such thing as the Soviet Union. People never talk about it anymore but when I was a kid the notion that whatever change was beyond conceiving.
+
+The mushroom said to me once it said This is what it's when a species prepares to depart for the stars.
+
+You don't depart for the stars under calm and orderly conditions. It's a fire in a madhouse and that's what we have the fire in the madhouse at the end of time.
+
+This is what it's when a species prepares to move on to the next dimension the entire destiny of life on the planet is tied up in this we're not acting for ourselves or from ourselves.
+
+We happen to be the point species on a transformation that will affect every living organism on this planet at its conclusion. Elon says Isla is fortunately not quite correct about the surface of the Earth being covered by solar panels although his broader point about solar panels being the future is true.
+
+It is far easier in scales vastly more to generate power and intelligence in space around the Earth and then deep space around the Suns some percentage of the Moon and then probably Mercury next get turned into Computronium which is silicon and aluminum radiators.
+
+Also, there won't be starvation but there will always be war and the machines won't care for things as absurdly trivial as you prefer gender.
+
+And Grock talks about this more saying Elon means turning lunar and Mercury in material into optimized compute substrate. Silicon solar cells harvesting power and aluminum radiators dumping waste heat to deep space.
+
+He says You start on the Moon with mass strivers for cheap launches and scale inward for maximum energy density towards a Dyson scale starmind.
+
+Elon says Grock understands. And we saw yesterday Elon talked about the Reiman hypothesis which was just proved by AI.
+
+Today he says simple explanation of the usefulness of the Reiman proof so far is that it removes the conditional nature of other math theorems dependent upon it.
+
+And of course is yet another mind-blowing thing achieved by superintelligence. And he says the shortest explanation of this theory is just mind blown.
+
+And Tim Sweeney says Props to rock star GTA 6 ship before the Reiman hypothesis was proven. Elon calls that a banger.
+
+And either you believe the AI build-out is over that AI was a flash in the pan and that the need for compute is already packed or this is a rare buying opportunity.
+
+You can see that's because Sandis and Micron all have really low forward PE ratios. Elon says getting this amount of compute turned on cooled and working reliably is incredibly hard.
+
+The cash orders is just also going to be nuts next year. Even cumulative industry delays of a few months between paying for compute and getting it reliable enough to generate revenue mean hundreds of billions of incremental dollars just for working capital.
+
+Where will that come from? And this accounts as how are things going with the AI alignment aka dumb thing rules over smart thing forever problem?
+
+Elon has a laugh. And this is from 2019. Balaji says to anyone who wants to ban lying on social media please write down a function that takes in a statement and returns whether it's true.
+
+If you can start with the Reiman hypothesis that would be amazing. And that comes as anthropic two days ago claimed to prove the Reiman hypothesis the most famous problem in all of math.
+
+AI generated the solution to the 167-year problem long considered far out of reach to a human mathematician.
+
+Balaji says incredible that this actually happened seven years later. We are in a completely new world.
+
+And Nvidia is down $51, 28%. Nikita Beer says well, the verdict is out. AI was a fad this whole time and people will stop using it just the internet.
+
+Elon says, fire. And Samuel says as AI progress stalled I'm personally not aware of any major breakthroughs since Reiman a few hours ago.
+
+Elon has a laugh. And we saw this yesterday. Apple is up 27% year to date watching the AI carnage that's happening.
+
+Well, AI Siri takes 12 seconds to set a freaking timer. Shemoth says, so true. Elon has a laugh.
+
+In end biology Gemini for Neon make whatever music video it wanted. At first it felt pretty bad but after a couple of days of poking it got this, the current thing.
+
+You can see the visualizations on this are pretty cool. Elon says, not bad. And there's a couple of new ones.
+
+This one's about Dario Amodi and the IPO of anthropic. This is a three minute video that helps you visualize the Reiman theory.
+
+I'll put it in the description if you guys are interested. And moving on to politics this is why the conversion practice bill is so dangerous.
+
+Two trans activists have published an attempted hit job on James Esses in which they enlisted people to contact him and pose this concern relative seeking therapy for distressed child.
+
+He says, they have used my email responses to alleged that I'm a conversion therapist. Of course, there's no basis for his allegation whatsoever.
+
+You can read the email yourself to see this. Shockingly, they also claim that I am genocidal. And as if I didn't need further evidence that this is gutter journalism.
+
+I have discovered that they have doctored some of the wording in the email I sent to this prospective client which again I can prove.
+
+If this is happening to therapists working in the space before legislation has come into force just imagine how chilling things will be once the monstrous bill is law.
+
+Elon says, troubling. One of my friends is everything Elon said today. We saw Tesla full self driving version 15 rolling out redrawing the road around you a video game.
+
+And Elon said that the whole visual runs on just half of one Tesla's AI chips. You saw the Ryman hypothesized was solved a math problem that stood for over 160 years.
+
+And Elon warned the AI build out is headed for a huge cash crunch next year. But anyway, that's everything I have for you guys. If you guys would early access to these videos consider joining a channel as a member.
+
+Also, sorry, I'm pretty sick right now. Actually super sick. So I'm not my peppy self as usual. But anyway, if you want to free month the self-driving, click the link in the description.
+
+If you're interested in SpaceX and Tesla stock I am trying interactive brokers. And here's why I recommend them. First cost.
+
+You pay zero commission on US listed second is margin. If you borrow, this is where they shine. Their pro margin rates currently start around 4.13% and balance grows.
+
+Third is selection. You get a massive range of tradeable securities including foreign stocks, plus options, futures forex and even prediction markets, all from one account.
+
+And your idle cash actually works for you. Interactive brokers pays high interest and getting started is easy. And then you get a zero dollar minimum balance and no general fee.
+
+If you're interested in learning more consider using the link pinned in the top comment. It truly physic is the best but anyway, I will see you guys tomorrow.

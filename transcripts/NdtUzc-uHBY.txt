@@ -1,0 +1,153 @@
+Every day on this channel I cover everything Elon Musk says on X over the last 24 hours. And here's everything he said as always I'll cover one category completely before moving on to the next one. And starting with Tesla introducing power core solid state medium voltage transformer inverter and breaker which is reliable safe and secure. It provides 7.4 megawatts continuously at 34.5 kilo volts with grid forming support for 10 megavolt amperes of peak power made in.
+
+America operating 2027. Elon says advanced solid state transformers at scale from Tesla. One more quote is saying this seems to compete directly with former Tesla executive Drew Baklino's startup hair on power. Classic Musk if you leave Tesla to start your own startup there's a good chance you might have to compete with Tesla. Elon says no this has been planned for over three years. And that provides more detail saying transformers have barely changed since the 1890s. They've been copper coils in a tank of oil. Batteries solar and compute run on direct current. The grid runs on alternating current. Bridging the two has meant inverters plus transformers. Power core is a solid state transformer breaker and inverter in one box. Finally one conversion and about half the loss is hats off to the Tesla power electronics engineers. And here's why this is significant. This enables fully off grid data centers meaning that they can be completely powered by solar. And that's because it has a peak efficiency of 98.86%. Elon reposts that. Jimmy says yes this is sorely needed.
+
+And Elon reposts that. And this car dealership guy says I spent a day being driven by a Tesla and I don't think the auto industry fully understands what's coming. Elon says true. And we saw Elon take a walk down memory lane yesterday saying I had one of our best structural engineers and marked spot welds for deletion on one side of the body in white and I did the other. The welds are symmetric. This is referring to his Model S. Our judgments matched exactly apart from the debate about a few. Which was settled quickly. If we had been wrong it would have resulted in a recall. We were not. This account says two people marking opposite sides blind and landing on the same welds. That's the part that should be in the story. Elon says that's what happened. And Barstow California has just seen an expansion with 16 Supercharger stalls added. Here's what it looks right here. Max from Tesla says there's a big push underway from the US Supercharger team to open new sites before.
+
+Thanksgiving of travel. Thank you to the utilities and local inspectors keeping energizations of this critical infrastructure on track. And guys there's going to be a Tesla annual meeting on December 3rd. They need your vote. Just go to VoteTesla.com to do it. In Texas A&M's $205.5 million semiconductor project will help train America's next generation of chip makers for TerraFab. University leaders say TerraFab's planned chip plant in Grimes.
+
+County makes A&M's semiconductor institute even more relevant. With TerraFab counting on the institute to help attract talent. They're building a new building in Brian and supporting water infrastructure that will serve chip research, develop deployment and workforce training. It provides practical training for TerraFab jobs, access to engineering talent industry style facilities, and construction is progressing on this institute. The building is about 20% complete. Elon reposts this. And moving on to X, four years ago today.
+
+Elon Musk posted a poll asking X if Donald Trump, who was banned by Twitter following January 6th, as a sitting president, should be reinstated to the platform. And 62% of people voted yes. And Elon reinstated him. And the SpaceX coverage continues, here's Elon Musk hugging ship 42. And this is a real shot of the booster. It's in slow motion from everyday astronaut. Elon says, nice shot. And what you're seeing here is sound bending light.
+
+You can see it right here with this outline around the booster. And Gavin Baker says if you have children, if you have grandchildren, take them to see a starship launch it will change their life. It has a real impact on little kids. I'd say probably half of adults cry niat at a launch. You just cannot believe that humans could do something this. It's pretty easy to go and see a launch. You don't have to be invited by SpaceX. You can watch it from the town of each. Elon quotes this saying true. Starship launches are incredibly exciting. And they say SpaceX is becoming a monopoly. But here are the competitors. SpaceX is flexing on all of them with Starship Falcon 9, Starlink and Dragon, and the competitors are looking a little special. For example, New Glenn said did I just blow up the pad? Amazon Leo has under 400 satellites launched with no service. Elon is less than enthused. And we saw that Gavin Baker quotes from this interview right here. Elon provides an 18 minute supercut that'll be in the description if you guys are interested. And SpaceX says that the unique architecture of the Starbase tower chopsticks was designed for full and rapid reusability, enabling repeat launches and landings from the same pad, which is what we saw with ship 42. And after 34 days docked to the space station, the Dragon spacecraft supporting 35th commercial resupply service mission for NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18th. And this is crazy. SpaceX just confirmed that the heat shield tile Mr. B signed and installed on ship 42 is intact. Even his signature survived during a 22.5 hour flight before returning to Starbase for the first ever Starship catch. And this is Mr. Beast laying the tile he also signed it. And if we go down right here, you can see his signature is still intact. Elon reposts this. And Brett went from arches as relative to our aggressive expectations. Here's where we land. Starship landed on its second commercial flight. And we were expecting six at the midpoint. It seems to be refurbishable within weeks. We were expecting months at the midpoint. And it's actually truly reusable. We thought there was about a five chance they would never solve reusability with the heat shield approach. At root SpaceX si is growth governed by asset turns relative to the non reusable case SpaceX si with a reusable.
+
+Starship stack becomes greater than two times as valuable by 2031 per research. And the improved economics suggested by the faster rate of progress on the rocket itself suggests about a 10% increase in 2031 value and revenue relative to our expectations. All of this helps to explain why the stock is checks notes flat since they caught the largest ever object to return from space in the grips of a giant steel set of chopsticks makes no sense. And you want to repost that and SpaceX is helping the community as they're spending hundreds of millions of dollars to build a new clean water system for Brownsville. This was just revealed by SpaceX CFO Brad Johnson. This is socialism versus capitalism. You can see the SLS on the left. NASA got $38.7 billion in funding. The cost per launch was about $2.5 billion per flight and was 100% taxpayer funded. On the right, you have Starship right here. $4 billion of NASA funding cost per launch is about $90 million and is mostly funded privately. You want to repost that. And holy crap, look at this. Andrew combined all of his Starship pictures into one to fully illustrate how it lands. These are all real pictures just stitched together. Let me zoom out for you guys. Just take it in right here. You want to repost that and you guys might remember how.
+
+SpaceX is funding Brownsville. The investment will support the following expanded drinking water infrastructure across Brownsville and Cameron County, recovering and treating wastewater for reuse is drinking water, expanding groundwater treatment facilities and adding new walls, adding approximately 18 million gallons of water capacity per day and reducing the region's dependence on the Rio Grande. These projects are designed to provide a more reliable, sustainable water supply for local communities for generations to come. SpaceX isn't just building the future of space flight in South Texas. It's also helping build the infrastructure that communities on Earth depend on. And a SpaceX competitor just explained how impossible it is to achieve what Elon has. Let me explain why I thought this was impossible. So we have a terminology within Rocket Lab that we affectionately call the wall. So we have to start off at eight and a half times the speed of sound. And we have to get down to 0.01 times the speed of sound in around about 70 seconds. And that's a really challenging thing to do. There's a lot of energy that needs to be dealt with on the way down. So we need to dissipate round about 3.5 gigajoules. That's a lot of energy to deal with on the way down. And to put it into more context, 3.5 gigajoules powers 57,000 homes for an instant. That kind of gives you a sense of how much energy that we have to scrub. And we can't scrub that propulsively. And when we're entering, generate a lot of shock waves and shock interactions. And the plasma around those shock waves is equal to about half the temperature of the sun. So we have tremendous, you know, aerothermal loads. I think you can probably see by now why I thought this was a pretty big challenge for this. And then there are dynamic loads, taking an electron and standing three elephants on the top. So you have a 1.8 millimeter carbon fiber rocket with three elephants standing on the top, with heating loads half the temperature of the sun, re-entering the aeroset atmosphere at eight and a half times the speed of sound. And we've got to get it down safely and in one piece. So there's lots of really big challenges here to try and deal with. Getting through the wall is really, really hard.
+
+And Elon reposts that video.
+
+Musk, you have to admit his ability to turn his boasts into realities unmatched anywhere in the world from Tesla and brain computer interfaces to SpaceX. There are a million investors in the world who know how to raise money, but there's only one Musk. Then Musk himself stepped in and replied with just one killer question. Fine. Then explain blue origin, Boeing and ULA to me. The poster says that one hit the money is all that matters argument right in the gut. And they illustrate this with the following. They say DHH is absolutely right. Money can buy you top engineers, but it can't buy you the guts to not be afraid of blowing up rockets. Just look at Starship's 15th test flight. In the same mission, the booster was lost at sea, but the spacecraft returned from orbit and was caught securely by the launch tower's mechanical chopsticks.
+
+At a traditional aerospace giant, just the words lost the booster would be enough to ground the program and trigger two years of accident review meetings. At SpaceX, though, it's just another set of experimental data on the road to success. He tags Elon saying Honestly, which is harder to build, a rocket that can reach space or a company that lets engineers learn by blowing up rockets? And CNBC says analysts are awed by SpaceX's Starship catch. Elon reposts that.
+
+And moving on to Starlink, we saw this. Elon said to be clear here, the Verizon communication system to air traffic control is breaking down very rapidly. The FAA assessment is single-digit months to cash traffic failure, putting air traveler safety at serious risk. The Starlink terminals are being sent at no cost to the taxpayer on an emergency basis to restore air traffic control connectivity. The situation is extremely dire. Elon quotes this saying.
+
+I wrote this 18 months ago in light of a recent FAA ground. And Transportation Secretary Sean Duffy just responded to Elon Musk saying he offered the Trump administration free Starlink for the FAA. Duffy said We thought that the best method is to have a network that's based on the ground.
+
+What he's doing with Starlink and the speed is remarkable, but our airspace is very big. We have assets everywhere and so we used them for different parts of the airspace. Elon, face palms. And he also shares this story of Starlink helping save four sailors' lives after a whale collision left their yacht sinking in the South Pacific.
+
+And this is them being rescued because of Starlink. Elon says Starlink saves lives. And Nick Sorter says it would have saved billions upon billions of taxpayer dollars using Starlink instead of Verizon. Now we're being told $50 billion is needed for wired upgrades.
+
+Secretary Duffy even said Starlink is being used by the FAA in Alaska. Why can't we spread it here? Not to mention US military is routinely relying on Starlink for communications that can't be knocked out by adversaries. Give Elon a shot and let him deliver.
+
+Elon says Good question. Michael says What an idiot.
+
+It is called redundancy, you moron. Take Elon Musk's free equipment and then build the ground system. And it would be a buffer so you could do the repairs without being down for weeks and months. Redundancy morons.
+
+Wake up administration. Elon says Exactly. We saw yesterday, Elon says South Africa is now super racist against whites and Asians.
+
+George says South African law literally requires Elon Musk and Starlink to give 30% of ownership to some random black person just to be allowed to get in the country and compete. 30% of a company, Elon built brick by brick. It's the definition of racism. Elon says.
+
+Yes. And Elon wanted to invest in South Africa but South Africa told him to give 30% of his company away. Elon says true. And Brett Johnson just shared a heartwarming story of Gwen Shotwell's visit to Brazil and how Starlink changed the lives of school children.
+
+He said Gwen went down when we turned on Starlink service in Brazil right down by the Amazon to a community that had never had any connectivity at all and was out there with the head of the school system there. You're bringing all the knowledge of the world when you bring the internet, right? Bringing the internet to these kids.
+
+And it was very exciting to dramatically change the community. And the Delta airline CEO is back. He says We've been out with a great product from Viasat, which we've got two new satellites in the sky.
+
+It's not Starlink caliber, but it's pretty darn close. Phil says Not pretty darn close. Starlink has 100 megabits per second down and 20 megabits per second up with 30 millisecond latency.
+
+And Viasat is 10 times worse on both metrics with a 600 millisecond ping. It's an order of magnitude difference. And Delta CEO just said this We've been the leader in free fast Wi-Fi and claim customers don't pick airlines based on Wi-Fi.
+
+The reality tells a different story. And look at these people. John says Sorry, I was a Delta diamond.
+
+United Internet is far superior with Starlink. Rob says After 10 half years flying with Delta, I'm switching to United because of Starlink. And so many other people are saying the same.
+
+Sam says I'll be flying Southwest from here on out. I used to be a Delta only flyer. I'm sure others are me moving to another airline just for Starlink.
+
+And South Korea's Jinn Air is to introduce free Starlink Wi-Fi next month. Boeing 737 jets will be equipped first bringing high speed internet to more passengers. And looking at artificial intelligence.
+
+Jensen Huang says this Over the past week, I've been overwhelmed by the love and support of friends, industry colleagues and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.
+
+I came to the United States 53 years ago and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life's work. Building into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company NVIDIA be possible.
+
+I love our country and I love NVIDIA. I do not live up to the standards expected of everyone at NVIDIA and I have made serious mistakes in my personal life. I created problems for the board that I deeply regret. I own my mistakes completely and I'm committed to cooperating with the board's independent investigation.
+
+Since my departure I've seen an outpouring of calls from NVIDIA's employees, investors, business partners and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology market, competitive and geopolitical dynamics. NVIDIA is a once in a generation company.
+
+If the board of directors decides that my return is in the best interest of our shareholders, our employees, the company and America I would be honored to answer these calls and return as CEO. Thank you again to everyone who has shared their good wishes. I am profoundly humbled by your support.
+
+To my family, I love you and I will spend the rest of my life being worthy of yours. And he signs it. Jensen. And as well as reposting that Elon responds to this.
+
+Apparently Sam Altman says chip makers are double counting open AI demand. Each assuming open AI will buy all of their chips. He says I think the demand the data center build out, that stuff is solid. But we're not all going to be able to or need to buy all of our supply from every chip vendor.
+
+Elon says SpaceX is assuming zero sales to open AI. If open AI is not seeing demand rising super fast then something is wrong with their products. And Yunta says sometimes I feel the urge to ask the models which human on earth would you most want to work with. I probably wants to work with someone who could take it to space and explore instead of getting trapped on earth.
+
+Elon asks Grok that question. And Grok says the human I most want to work with is whoever keeps asking the hardest questions about the universe and refuses to settle for incomplete answers. Space is a hell of a lab so yes, bonus if they can get us there.
+
+And after Yunta said name the most likely living human, Grok said Elon Musk. And Elon also says super intelligence will hack your limbic system. And drumroll please it's grokbot time ladies and gentlemen. Grokbot says five bots now have full time roles on our accounting team.
+
+We onboard train and manage them just human teammates. Elon says grokbot can do your accounting. This means that SpaceX SI has cut invoicing time from 24 hours to minutes with grokbot. That's because of those five bots we've seen.
+
+There's a customer account spot that checks signed contracts, sets up customer access and removes access after contracts end. A billing support bot that answers questions and updates billing records. A payment bot that matches incoming payments to invoices and investigates differences. A customer inquiry bot that answers customer billing questions and coordinates requests such as refunds.
+
+SpaceX estimates that handling this workload without grokbot will require more than doubling its accounting team. Its accountants can now focus on improving systems and resolving complex issues. They're showing you how powerful grokbot can be for businesses. You can get faster work, less time spent on routine tasks and more time for people to focus on what needs their expertise.
+
+Elon says grokbot can save you millions in corporate expenses. You'll research every expenditure, evaluate its necessity and find better deals on the internet or by calling suppliers on the phone directly. And this is from November 10th.
+
+Elon says we will do a soft rollout to bot users later this week and see how it goes. Referring to grok 4.8 being released. Vittorio says so that was an effin lie. And Elon says we did do a soft release to some bot users but still have another week or two of polish before general release.
+
+And he follows up saying grok 4.8 does not roll out for general use yet. Just some trials behind the scenes. When we saw this yesterday, Matt Palmer shared everything new in grokbot version 1. He literally had a paper and was just walking around.
+
+Larry Goldberg says the first two features Matt Palmer walks through and is what's new in grokbot version 1 video this morning were team bot improvements and bots that join your meetings. And they're the same two things that I asked for right here on X.
+
+On August 30th, I wrote that we need to be able to share grokbots across teams and Elon replied coming soon. On October 25th, I suggested the grokbot team let my bot join a zoom or teams call with me or for me.
+
+Elon replied this might be possible. Meeting started switching on for users less than two weeks later. And now both features lead the version 1 release. That says a lot about how responsive the team is.
+
+A user describes a need Elon weighs in himself and within weeks it is in the product and getting better. And he goes on to say the tempo of grokbot evolution is extraordinary and these are only two of the many new features in version 1.
+
+He says I'm grateful to Matt the team and Elon for listening. And speaking of listening, Larson says I work on the grokbot team. Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good stuff to our team.
+
+And again, this is in the description if you guys want to give feedback. And SpaceX CFO Brett Johnson just said this. I hope everyone's trying grokbot. It is amazing.
+
+It's probably the best agentic AI solution out there. If you look at grokbot and the updates that are coming on the grokmodel as well and the coding capability of cursor we have a very diversified software portfolio that's just going to get better and better.
+
+And to illustrate this, this account says I gave the same task to grokbot and openais.yesterday. Grok finished it in under two hours and DOT still has no clue what it's doing. It's completely frozen. If all that compute had gone into the subscription instead of DOT the subscription would be worth a lot more.
+
+Elon reposts that. And moving on to politics, a wide ideology gap is opening up between young men and women in countries across the world. Liberals on the top and conservatives on the bottom.
+
+You can see just how wide of a gap there is. Sula says, as you can see from the chart, grifting podcasters, malicious YouTube algorithm and illegal memes have caused young men to glam on to unacceptable reactionary ideologies. They've gone completely insane, while women have stayed the same clearly being sarcastic.
+
+Elon reposts that. And look at what Abdul El Said, a new senator just said. I will likely swear on the Quran. Which Quran we're not sure.
+
+I mean, Thomas Jefferson had a copy of the Quran. So when Keith Ellison was sworn in to Congress, he's sworn in on that copy. There's also the University of Michigan holds the first Quran in the state of Michigan. It's very, very old.
+
+And that might be the choice. So I don't know, but I'll swear on the Quran. Governor of Florida Ron DeSantis says Thomas Jefferson and John Adams met the Tripoli ambassador in London and asked him why Muslims were attacking nations who had done them no harm.
+
+In a letter to John Jay dated March 28th, 1786, they wrote The ambassador answered us that it was founded on the laws of their prophet that was written in the Quran. That all nations who should not have acknowledged their authority were sinners. That it was their right and duty to make war upon them wherever they could be found.
+
+And to make slaves of all they could take as prisoners. And that every muscle man who should be slain in battle was sure to go to paradise. Jefferson would go on to wage war against the Barbary pirates during his presidency. Moving on to racism, South Africa is one of the few countries in the world that still explicitly discriminates based on race through its laws.
+
+Since apartheid ended, it has passed 122 race-based laws explicitly discriminating against white South Africans. Elon reposts that. In Australia, the Australian Labour government wants to ban trad-wife content and their example is literally just a video of a lady saying she likes being married and loves her husband.
+
+This? My husband loves a spicy snack. Trans into this?
+
+Which trans into this? Drew Pavlov says The Labour digital duty of care bill is one of the most Orwellian pieces of legislation I've ever seen, which is what's proposing this ban.
+
+And looking at Elon, this is from 2023. Dan shares a list of games I have not played. GTA 1 through GTA 6. Elon says.
+
+I tried but I didn't doing crime. GTA 5 required shooting police officers in the opening scene and I just couldn't do it. Alex says.
+
+Do you follow the traffic lights and stop at all the red lights? I guess Elon must have seen that today saying definitely not. I'm of the view that you can do what you want so long as it doesn't materially harm others.
+
+And guys, Elon Musk will return to China and continue creating new memes. And they're referring to Elon's funny facial expressions as he was taking selfies with Chinese businessmen. Elon has a laugh.
+
+And to finish off the video, he says It was the smartest of times. It was the dumbest of times. Perfectly illustrates today.
+
+And that my friends was everything Elon said today. Jensen Huang said he made serious mistakes. It'll come back to Nvidia if the board asks. And Elon reposted it.
+
+We got to see Elon literally hugging the Starship hardware. Rockbot can now run full accounting jobs cutting invoicing from a day to minutes. And Elon says he offered the FAA.
+
+Starlink for free and the government said no. But anyway, that's everything I have for you guys. As always, if you guys would early access to these videos consider joining the channel as a member.
+
+Click the link in the pinned comment for a free month of self-driving. And if you're interested in Tesla's basic stock I am try interactive brokers. And here's why I recommend them.
+
+First, cost. You pay zero commission on U.S. listed stocks. Second is margin. If you borrow, this is where they shine.
+
+Their pro-margin rates currently start around 4.13% and drop as your balance grows. Third is selection. You get a massive range of tradeable securities including foreign stocks plus options futures, forex and even prediction markets all from one account.
+
+And your idle cash actually works for you. Interactive brokers pay high interest on uninvested cash. And getting started is easy. There's a $0 minimum balance and no general maintenance fee.
+
+If you're interested in learning more consider using the link pinned in the top comment. It truly is the best. But anyway, I will see you guys tomorrow.
