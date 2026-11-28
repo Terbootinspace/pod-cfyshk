@@ -1,0 +1,121 @@
+Every day on this channel I cover everything Elon Musk says on X over the last 24 hours. And here's everything he said, as always I'll cover one category completely before moving on to the next one. In starting with Tesla, DJ went out for a 30 minute drive in the storm using full self-driving version 15.0.1, hoping to catch something cool, but it was a boring drive.
+
+Utterly, boring and perfect, nothing happened. The drive was flawless, and that's why V15 is going to blow people away. Elon says, yep, and every single Tesla you buy today essentially operates your own personal robotaxi, it makes no sense to buy a car that you have to manually drive.
+
+This will change your life. Elon says, true. And Tesla says, happy Thanksgiving to all of our owners, employees and advocates. Elon says, super appreciate your support.
+
+Tesla wouldn't be where it is today without our awesome customers. The Cybertruck says, thankful to be different, and for everyone who loved me for it. Jack says, you're the greatest robot out there, and Elon reposted that. Moving on to Nerling, this guy was just cut off from YouTube.
+
+Bradford says, happy Thanksgiving. Today, YouTube suspended my channel from the YouTube partner program for unsatisfying or off-putting content. I have ALS, I'm a full quadriplegic, and I'm nonverbal.
+
+I use an AI recreated version of my own pre-ALS voice with 11 labs so I can speak host interviews and narrate my videos. It's not an AI persona or a content farm, it's literally how I talk. I just submitted my appeal video below.
+
+I would love a human second look. Elon, it was alarmed by that. And look, the Nerling team is all together celebrating Thanksgiving. DJ says, we're working hard to make blindsight happen.
+
+Happy Thanksgiving from the Nerling team. And moving on to X, we saw this yesterday. The average R exercise for men in America is 5.6 inches. Elon says, community notes just saved a lot of guys from thinking their wiener is too small, as it was actually 5.1.
+
+And today he says, it's the small things in life that matter, having a laugh. And on SpaceX, we saw Elon announce that he will give one SpaceX share to each of the about 70 million children in America every year. At SpaceX's current share price, that amounts to over $9 billion in gifts annually.
+
+If their stock price goes up, the value of those gifts and shares will be worth a lot more. This will be the largest gifting pledge in history. Elon says it's vital that children have a stake in the future. And this account says, I used to think Trump accounts were only for newborns because of the $1,000 government contribution, so I never bothered to set one up for my kids.
+
+Out of my three children, two are already adults over 18, so they aren't eligible. My youngest is still under 18, and yesterday I finally claimed and activated an account for him. Turns out the account isn't just for babies. Any child under 18 with a social security number can have one.
+
+The $1,000 seed money is only for kids born between 2000 and 2528 but older kids under 18 can still have the account. The Treasury automatically enrolled eligible children back in October 2026 but parents still need to claim and activate the account through the official app or website.
+
+Only then can you contribute money or receive outside contributions including the SpaceX shares that Elon Musk and the company pledged to active accounts. If you have a child under 18, it might be worth checking and claiming the account now. Elon says true.
+
+Let's look back at this when Matt Solar says these shares could have been liquidated and turned into cash for each kid right now so they can use it as necessary. If they want to buy socks, great.
+
+If they want to buy food or medicine, that's more important. Tom Mueller says, what's next, Matt? Take a massive dump in the front seat of your Tesla. And Omar says, look at that to reply ratio, which is 3,800 replies to 400 likes.
+
+Elon says, Tom Mueller is awesome. One of the best engineers I've ever worked with. And Stephen Mark Ryan says, name a more awesome act of philanthropy than Elon saying every child in America will receive two SpaceX shares.
+
+Elon says, I'll be donating another share of SpaceX to all kids in America every year. And Tom Mueller, SpaceX employee number one says Elon Musk reversed his approach to engineering by demanding they find where rocket engines break and then push them together.
+
+It changed us working with Elon. And my previous company, it was you never blow up a rocket engine or fail a rocket engine. That's bad.
+
+This is bad karma. Never test. Always have a lot of margin and make sure that you don't fail. And Elon's whole thing was, well, let's find out where it breaks and then fix that and go push it even more.
+
+So it's really a whole different way of thinking about it. It's really refreshing and you learn a lot. We've had things that we thought would break that we couldn't break. Other things that would break because the engineering is not always that deterministic.
+
+It's not always obvious. We're amazed that this thing is still running. Elon reposts that. And teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9's launch of Northrop Grumman's commercial resupply mission to the space station.
+
+Lift off is targeted for 1047 AM Eastern time on the 29th of November. And this is the payload in question right here. You can see it being loaded into Falcon 9. You want to repost that.
+
+Moving on to SpaceX AI, about 70% of signers to the petition against SpaceX's data center in Arizona don't even live there according to their supervisor. She said, I went on to that. There was one where you just signed your name.
+
+You didn't even have to say your address or where you're from. Then there was another one by change.org. And there's at least 60% of those people who are not from the county. I have a real problem with people outside our county trying to tell us what we should do and what we shouldn't do.
+
+My family goes back over since the 1880s. I don't want to ruin this county. I do not want to make it worse. In fact, that would be something that would horrify me.
+
+So you know the people of this county were smart people. We know what we're doing. We know what we want for our vision. And we pass a comprehensive plan that's really thorough on everything.
+
+I would say to people if you had the time I did and went and checked each of those signatures, you're going to see that so many of them are not from the county me. So to me, I'm talking to the people on the street. I'm talking to the organizations that I meet.
+
+And that's where I'm going to make my decision from what I hear from people. You won't repost that. And moving on to GROC. Myles says, why did XAI of all companies choose this path?
+
+Clouds using PyTorch. ChatGPT is using PyTorch in Shaitan. Gemini uses Jax and GROC 4.8. Rerote reinforcement learning in inference systems in C and C++.
+
+After spending so long rebuilding the underlying systems how much of a performance boost and cost advantage and computing power can must really get out of it. Is it worth it?
+
+Elon says, you'll see. And it's GROC bought time at ladies and gentlemen. Sam says, there's a lot more optimizations in the work this week too. The GROC bought harness team is 100% focused on helping you get more usage out of your plan.
+
+And then he says, the team has been cooking over the last few weeks. You should now see the additional 11% more usage out of your plan and up to 50% more usage for routines. Excited to share more soon on how we optimize our routine harness to remove inference requests for simple and repetitive tasks.
+
+Elon reposts that. Moving on to artificial intelligence. Amongst all the complex proofs. How about a beautiful, elegant one, says Emod.
+
+One axiom, the dot product. One method, the axiomatic method. Every axiom of quantum mechanics, special relativity and more forced into four pages.
+
+Happy Thanksgiving. Elon says, cool. Andrei Karpathy says I asked Claude to popularize a civilization style game map with real data from the United States.
+
+Opus 5.5 downloaded and parsed a ton of public data in 7 hours and 45,000 lines of code later at works. It has real elevation, land cover, GDP, jobs, power plants, mines, ports, airports, bases parks, universities, freight flows, disasters, all reconciled into one grid. And it's literally a game of the United States, a strategy game built from real public data.
+
+Let's look through this a little bit. You can see there's Philadelphia, New York, Bridgeport. You can see every single area's population. You can see their GDP.
+
+And Elon says, very impressive. And as the United States GDP hit 4.3% with the expectation of 3.5 and biology says, we're reaching universal high income. Take the white pill.
+
+And Elon says, yes. Moving on to politics. This account says, I'm not sure giving every child a SpaceX share is a good idea. And that's exactly why it's interesting.
+
+Elon Musk says, every American child will receive two SpaceX shares which sounds generous, but there's a deeper question. Should children be given ownership in companies they don't understand? On one side, you're teaching ownership early.
+
+On the other, you're introducing millions of children to financial assets before they can even understand risk. This account says, you just delete the app. And Elon says 100.
+
+And in the United Kingdom, Donald Warren was just charged with racially aggravated assault after a man accused her of a racist slur. Donald says she never said a word of it. Her lawyer didn't think she would go to jail, but warned her the worst case was jail.
+
+When she told her children what she was charged with her youngest daughter Aston was 10. Aston asked if prison would let her out at least once a week to see them or if she would come home every day.
+
+Donald told her she wouldn't go to prison because she didn't want her daughter worrying. That question made her want to fight more than ever. The case hung over her for two years, and a trial meant to last three days ran into nine. In the end, all 12 jurors found her not guilty.
+
+And they waited outside the gate to tell her she should have never been in the courtroom. Elon reposts that. And a British family was just pulled over by police for having British flags in Britain. You can see that happening right here.
+
+This man got pulled over for carrying English flags in the back of his truck. John Cleese says please retweet this. It shows which side the police are on, and Elon reposted that. And moving on from politics half of English settlers who arrived in the Mayflower were dead after the first winter.
+
+The first harvest in 1621 gave the 53 survivors a reason to gather celebrate, and be thankful. Eventually, a few wooded colonies would become the most powerful nation in history. And David Senra shares this conversation with Toby.
+
+He says it's one of the best I've had on the podcast so far. Toby talks about the miracles of entrepreneurship, technology, AI, free markets and why now is the most exciting time in history to build products and services that make other people's lives better.
+
+Elon says Toby is awesome. And he's the owner of Shopify. And Jimmy shares this. Weeks when decades happen is every week now.
+
+Elon says yeah, referring to the singularity. And I guess people are going against the guy who created Dungeons and Dragons. This account says lying about Gary Gaiax won't ever change the fact that he co-created Dungeons and Dragons.
+
+Intentionally trying to harm his legacy won't ever lessen his influence on the hobby. You can kick and scream all you want with the man's legacy is forever. Elon says Gaiax was a creative genius. And I'm sure you guys are also excited about this.
+
+It's 15 days until the path of Exile 2 full release comes out. And it's finally getting death recaps. No more wondering what randomly deleted you or trying to piece together what happened in the middle of 50 different effects.
+
+You'll finally be able to see what killed you and get a better understanding of why. It breaks down so well. They count the posts that this says honestly this is one of the best quality of life editions coming in version one.
+
+It's about the time they delivered. Elon says cool. And he also says happy Thanksgiving to everyone. And as he's donating another share of SpaceX to all kids in America every year.
+
+Bill Lee says happy Thanksgiving Elon. And Elon gives him a heart. And that my friends is everything Elon said today. We saw that Elon says he'll donate another SpaceX share to every kid in America every single year.
+
+YouTube demonetized a Neuralink ALS patient out of its partner program on Thanksgiving. Elon thanked every Tesla customer for getting the company to where it is. And John Cleese wants people to see police stopping a British family for flying British flags. But as always if you'd early access to these videos consider joining the channel as a member.
+
+Click the link in the pinned comment for a free month of self-driving. And if you're interested in Tesla and SpaceX stock I am, try Interactive Brokers. And here's why I recommend them. First cost.
+
+You pay zero commission on US listed stocks. Second is margin. If you borrow this is where they shine. Their pro margin rates currently start around 4.13%.
+
+And drop as your balance grows. Third is selection. You get a massive range of tradable securities including foreign stocks plus options, futures forex and even prediction markets all from one account.
+
+And your idle cash actually works for you. Interactive Brokers pays high interest on uninvested cash. And getting started is easy. There's a zero dollar minimum balance and no general maintenance fee.
+
+If you're interested in learning more consider using the link pinned in the top comment. Truly is the best but anyway I will see you guys tomorrow.
